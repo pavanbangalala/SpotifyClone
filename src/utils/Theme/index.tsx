@@ -1,5 +1,5 @@
 import {createBox, createText, createTheme} from '@shopify/restyle';
-import {colors} from './Colors';
+import colors from './Colors';
 import {textVariants} from './TextVariants';
 
 const theme = createTheme({
